@@ -1,0 +1,34 @@
+/* .formulario {
+    width: 350px;
+    padding: 5px;
+}
+
+.formulario .MuiFormControl-root {
+    margin: 10px;
+}
+
+*/
+
+/* .texto-entrada {
+    width: 100%;
+} */
+
+.botao-cancelar {
+    width: 100%;
+}
+
+.botao-salvar {
+    width: 100%;
+}
+
+.div-metade {
+    width: 50%;
+}
+
+.div-cancelar {
+    padding-right: 2px;
+}
+
+.div-salvar {
+    padding-left: 2px;
+}

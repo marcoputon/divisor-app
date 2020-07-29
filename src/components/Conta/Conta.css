@@ -1,0 +1,22 @@
+.conta {
+    position: absolute;
+    width: 100%;
+}
+
+.lista-pessoas {
+    /* position: relative; */
+    width: 50%;
+}
+
+.lista-produtos {
+    /* position: relative; */
+    width: 50%;
+}
+
+.margem {
+    margin: 10px;
+}
+
+.tabela-scroll {
+    overflow-y: auto;
+}
